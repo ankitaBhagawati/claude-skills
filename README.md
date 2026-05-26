@@ -16,9 +16,9 @@ A collection of personal Claude skills — custom instructions that give Claude 
 
 ## How to Install a Skill
 
-1. Download the `SKILL.md` file from the skill's folder
+1. Download the `(skill-name).md` file from the skill's folder
 2. In Claude, go to **Customize → Skills → +**
-3. Upload the `SKILL.md` file
+3. Upload the md file
 4. The skill is now active — trigger it via slash command or just describe your use case naturally
 
 ---
